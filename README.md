@@ -80,6 +80,7 @@ xnor (y7,a,b);
 endmodule 
 ```
 ### Logic symbol & Truthtable
+![189794412-9f6e0db3-b407-4f48-a4a7-ba4fc6c1fa0c](https://github.com/shaikSameerbasha5404/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707756/be2dbe9e-de9c-4578-9199-37456163abec)
 ### Output:
 ![Screenshot (84)](https://user-images.githubusercontent.com/118707756/231414295-b94101c2-b48c-4016-bf61-8e51fc89afc8.png)
 
